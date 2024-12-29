@@ -1,0 +1,4 @@
+fire
+-e ".[data,eval]"
+fairseq2==v0.3.0rc1 --pre --extra-index-url https://fair.pkg.atmeta.com/fairseq2/whl/rc/pt2.5.1/cpu
+stopes
